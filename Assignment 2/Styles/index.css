@@ -1,0 +1,182 @@
+.head{
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: #e7fcf8;
+    height: 100vh;
+    width: 100%;
+    margin: auto;
+}
+.head2 {
+    padding: 0px;
+    box-sizing: border-box;
+    width: 65%;
+    margin: auto;
+}
+.flex-box {
+    padding: 0px;
+    box-sizing: border-box;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    width: 100%;
+    border-top: #2EC4B6;
+    gap: 0px;
+}
+.flex-box1 {
+    margin: 5px;
+    padding: 0px;
+    box-sizing: border-box;
+    padding-top: 200px;
+}
+.flex-box2 {
+    margin: 5px;
+    padding: 0px;
+    box-sizing: border-box;
+    padding-top: 100px;
+    
+    
+}
+.first-last {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+}
+.first {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    width: 45%;
+}
+.last {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    width: 45%;
+}
+.gender-birth {
+    padding: 0px;
+    box-sizing: border-box;
+    display: flex;
+    margin: auto;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+}
+.gender {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    width: 45%;
+}
+.birthdate {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    width: 45%;
+
+}
+.gbemidebe {
+    color: gray;
+    width:auto;
+        margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    padding-top: 20px;
+    size: 16px;
+    line-height: 25px;
+    color: #737373;
+    
+}
+.weight-height {
+    padding: 0px;
+    box-sizing: border-box;
+    display: flex;
+    margin: auto;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+}
+.weight {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    width: 45%;
+}
+.height {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    width: 45%;
+}
+.activity {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    width: 95%;
+    margin-left: 15px;
+    line-height: 15px;
+}
+.pass {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    width: 95%;
+    margin-left: 15px;
+    line-height: 15px;
+}
+.fontz {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    padding-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    letter-spacing: -0.8px;
+}
+.inputz {
+    width: 100%;
+    padding: 15px;
+    color: #737373;
+    margin: 8px 0;
+    box-sizing: border-box;
+    opacity: 0.4;
+    border: 2px solid #2EC4B6;
+}
+.inputs {
+    width: 100%;
+    padding: 15px;
+    color: #737373;
+    margin: 8px 0;
+    box-sizing: border-box;
+    opacity: 0.4;
+    border: 2px solid;
+    
+}
+.inp {
+    margin: 0px;
+    box-sizing: border-box;
+    width: 95%;
+    background-color: #2EC4B6;
+    color: white;
+    padding: 15px;
+    margin-left: 16px;
+    border: none;
+    cursor: pointer;
+    line-height: 10px;
+}
+.form {
+    box-sizing:content-box;
+    background-color: #FFFFFF;
+    width: 100%;
+    margin: auto2;
+    border-radius: 10px;
+    padding: 30px;
+    height: 74vh;
+}
+
